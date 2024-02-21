@@ -2,6 +2,9 @@
 
 Spazzle is a basic landing page created with HTML, CSS, and JavaScript.
 
+# Live 
+https://s1kopath.github.io/spazzle
+
 ## Table of Contents
 
 - [About](#about)
